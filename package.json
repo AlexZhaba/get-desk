@@ -85,8 +85,7 @@
     "build": "craco build",
     "test": "react-scripts test",
     "predeploy": "craco build",
-    "deploy": "gh-pages -d build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
