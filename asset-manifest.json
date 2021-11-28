@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/AlexZhaba/get-desk.git/static/css/main.aea74091.chunk.css",
+    "main.js": "/AlexZhaba/get-desk.git/static/js/main.5f2340bf.chunk.js",
+    "main.js.map": "/AlexZhaba/get-desk.git/static/js/main.5f2340bf.chunk.js.map",
+    "runtime-main.js": "/AlexZhaba/get-desk.git/static/js/runtime-main.c509f1f4.js",
+    "runtime-main.js.map": "/AlexZhaba/get-desk.git/static/js/runtime-main.c509f1f4.js.map",
+    "static/css/2.9c5eef5f.chunk.css": "/AlexZhaba/get-desk.git/static/css/2.9c5eef5f.chunk.css",
+    "static/js/2.3dfce237.chunk.js": "/AlexZhaba/get-desk.git/static/js/2.3dfce237.chunk.js",
+    "static/js/2.3dfce237.chunk.js.map": "/AlexZhaba/get-desk.git/static/js/2.3dfce237.chunk.js.map",
+    "index.html": "/AlexZhaba/get-desk.git/index.html",
+    "static/css/2.9c5eef5f.chunk.css.map": "/AlexZhaba/get-desk.git/static/css/2.9c5eef5f.chunk.css.map",
+    "static/css/main.aea74091.chunk.css.map": "/AlexZhaba/get-desk.git/static/css/main.aea74091.chunk.css.map",
+    "static/js/2.3dfce237.chunk.js.LICENSE.txt": "/AlexZhaba/get-desk.git/static/js/2.3dfce237.chunk.js.LICENSE.txt",
+    "static/media/MarkerImg.8afcdbea.png": "/AlexZhaba/get-desk.git/static/media/MarkerImg.8afcdbea.png",
+    "static/media/Star.d1e1c851.svg": "/AlexZhaba/get-desk.git/static/media/Star.d1e1c851.svg",
+    "static/media/announcement.0744fd9b.svg": "/AlexZhaba/get-desk.git/static/media/announcement.0744fd9b.svg",
+    "static/media/arrow-grey.bc6bda98.svg": "/AlexZhaba/get-desk.git/static/media/arrow-grey.bc6bda98.svg",
+    "static/media/facebook-icon.3db3a5c9.svg": "/AlexZhaba/get-desk.git/static/media/facebook-icon.3db3a5c9.svg",
+    "static/media/filter.cdd2aeb4.svg": "/AlexZhaba/get-desk.git/static/media/filter.cdd2aeb4.svg",
+    "static/media/footer__arrow.bc6bda98.svg": "/AlexZhaba/get-desk.git/static/media/footer__arrow.bc6bda98.svg",
+    "static/media/footer__language.b04c33ab.svg": "/AlexZhaba/get-desk.git/static/media/footer__language.b04c33ab.svg",
+    "static/media/header__language.2821eeca.svg": "/AlexZhaba/get-desk.git/static/media/header__language.2821eeca.svg",
+    "static/media/header__user.cb50115a.svg": "/AlexZhaba/get-desk.git/static/media/header__user.cb50115a.svg",
+    "static/media/styles.scss": "/AlexZhaba/get-desk.git/static/media/search.8140e3d8.svg",
+    "static/media/instagram-icon.442164b1.svg": "/AlexZhaba/get-desk.git/static/media/instagram-icon.442164b1.svg",
+    "static/media/logo.c5d26f5f.svg": "/AlexZhaba/get-desk.git/static/media/logo.c5d26f5f.svg",
+    "static/media/mapExpand.55bd6f56.svg": "/AlexZhaba/get-desk.git/static/media/mapExpand.55bd6f56.svg",
+    "static/media/mapExpandWhite.d7445361.svg": "/AlexZhaba/get-desk.git/static/media/mapExpandWhite.d7445361.svg",
+    "static/media/telegram-icon.4cbf2818.svg": "/AlexZhaba/get-desk.git/static/media/telegram-icon.4cbf2818.svg",
+    "static/media/vk-icon.937a4f59.svg": "/AlexZhaba/get-desk.git/static/media/vk-icon.937a4f59.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c509f1f4.js",
+    "static/css/2.9c5eef5f.chunk.css",
+    "static/js/2.3dfce237.chunk.js",
+    "static/css/main.aea74091.chunk.css",
+    "static/js/main.5f2340bf.chunk.js"
+  ]
+}
