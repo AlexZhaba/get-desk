@@ -1,0 +1,35 @@
+.wrapper {
+  border: 0.5px solid #C7C7C7;
+  box-sizing: border-box;
+  border-radius: 50px;
+  width: 100px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative !important;
+}
+
+.minus {
+  background: #ED4040;
+  width: 13px;
+  height: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.plus {
+  @extend .minus;
+  transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.value {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #131313;
+}
+

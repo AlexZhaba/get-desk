@@ -1,0 +1,31 @@
+.wrapper {
+  z-index: 401;
+  width: 446px;
+  cursor: default;
+}
+
+.title {
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+}
+
+.container {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 40px;
+}
+
+.comment {
+  font-size: 16px;
+  line-height: 19px;
+  color: #717171;
+  width: 266px;
+}
+
+.bigSwitch {
+  //width: 70px;
+  //height: 35px;
+}

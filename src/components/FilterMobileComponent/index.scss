@@ -1,0 +1,22 @@
+.wrapper {
+  position: absolute;
+  top: calc(100% + 35px);
+  left: -20px;
+  transition: .2s all;
+  //width: 300px;
+  background: #FFF;
+  box-shadow: -20px 0px 130px rgba(37, 1, 0, 0.15);
+  border-radius: 10px;
+  padding: 30px 50px 40px 50px;
+  cursor: default;
+  color: #000;
+}
+
+.input__wrapper {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 14px;
+  line-height: 17px;
+}

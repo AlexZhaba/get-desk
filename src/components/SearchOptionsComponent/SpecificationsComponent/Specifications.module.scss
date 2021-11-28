@@ -1,0 +1,42 @@
+.wrapper {
+  width: 720px;
+  color: #000;
+  z-index: 2;
+  cursor: default;
+
+  &__title {
+    font-size: 20px;
+    line-height: 24px;
+    color: #131313;
+    margin-bottom: 5px;
+  }
+
+  &__subtitle {
+    font-size: 16px;
+    line-height: 19px;
+    color: #717171;
+    margin-bottom: 40px;
+  }
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+
+  &__text {
+    font-size: 16px;
+    line-height: 19px;
+    color: #131313;
+  }
+}
+
+.input__bottom {
+  margin-top: 40px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  line-height: 20px;
+  font-size: 16px;
+  gap: 40px;
+}

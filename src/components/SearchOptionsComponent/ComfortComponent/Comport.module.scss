@@ -1,0 +1,51 @@
+.wrapper {
+  width: 845px;
+  right: -110px;
+  left: auto;
+  color: #000;
+  z-index: 401;
+  cursor: default;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+  color: #131313;
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  gap: 40px;
+  color: #000000;
+
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    font-size: 18px;
+    line-height: 200%;
+    min-width: 230px;
+  }
+}
+
+.input__bottom {
+  margin-top: 40px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  line-height: 20px;
+  font-size: 16px;
+  gap: 40px;
+}
+
+.openAll {
+  font-size: 16px;
+  line-height: 19px;
+  color: #717171;
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
